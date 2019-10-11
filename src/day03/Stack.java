@@ -7,6 +7,6 @@ public class Stack {
 
     }
     public int pop() {
-
+        return 0;
     }
 }
